@@ -21,7 +21,7 @@ This is used in the demonstration of development of Ansible Playbooks.
 
 ## 3. Install latest pip
 
-    apt-get install pip3 
+    apt-get install python3-pip
 
    
 ## 4. Install and Configure Web Server
