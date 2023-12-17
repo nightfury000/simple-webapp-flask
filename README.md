@@ -2,6 +2,9 @@
 
 This is a simple web application using [Python Flask](http://flask.pocoo.org/) and [MySQL](https://www.mysql.com/) database. 
 This is used in the demonstration of development of Ansible Playbooks.
+You can run the container using 
+```docker pull csborle/my-simple-webapp-improved``` .
+For more details regarding this image you can visit [Webapp flask](https://hub.docker.com/r/csborle/my-simple-webapp-improved)
   
   Below are the steps required to get this working on a base linux system.
   
